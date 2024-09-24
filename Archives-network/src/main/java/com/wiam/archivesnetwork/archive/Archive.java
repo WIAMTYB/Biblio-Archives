@@ -1,20 +1,15 @@
 package com.wiam.archivesnetwork.archive;
 
-import com.fasterxml.jackson.annotation.JsonInclude;
+
 import com.wiam.archivesnetwork.common.BaseEntity;
 import com.wiam.archivesnetwork.feedback.Feedback;
 import com.wiam.archivesnetwork.history.ArchiveTransactionHistory;
 import com.wiam.archivesnetwork.user.User;
 import jakarta.persistence.*;
-import jakarta.transaction.Transactional;
+
 import lombok.*;
 import lombok.experimental.SuperBuilder;
-import org.springframework.data.annotation.CreatedBy;
-import org.springframework.data.annotation.CreatedDate;
-import org.springframework.data.annotation.LastModifiedDate;
-import org.springframework.data.jpa.domain.support.AuditingEntityListener;
 
-import java.time.LocalDateTime;
 import java.util.List;
 
 @Getter
