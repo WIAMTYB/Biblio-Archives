@@ -11,8 +11,8 @@ Moroccan-Archives is a Social Network ,a full-stack application that enables use
 
 
 
-**Clone the project** 
-**Run the docker file with docker-compose up**
-**Run the backend** 
-**Run the frontend**
+**Clone the project** .
+**Run the docker file with docker-compose up**.
+**Run the backend** .
+**Run the frontend**.
 
