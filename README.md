@@ -8,3 +8,11 @@ Moroccan-Archives is a Social Network ,a full-stack application that enables use
 - **Archive Borrowing**: Implements necessary checks to determine if an archive is borrowable.
 - **Archive Returning**: Users can return borrowed archive.
 - **Archive Return Approval**: Functionality to approve archive returns.
+
+
+
+Clone the project 
+Run the docker file with docker-compose up 
+Run the backend 
+Run the frontend
+
